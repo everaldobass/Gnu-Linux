@@ -1,1 +1,17 @@
-# Gnu-Linux
+# Curso Gnu/Linux
+Preparatório para Certificação Linux LPIC-1
+
+## Sobre o Curso
+Aprenda nesse Curso Completo como Passar nas 2 Provas das Certificações LPI 1 (101-500 e 102-500)
+
+## Status do Curso
+Em Andamento
+
+## Icons
+:package: nova funcionalida
+:up: atualização
+:beatle: correção de bug
+:checkered_flag: release
+
+
+
