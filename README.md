@@ -10,6 +10,10 @@ Ricardo Prudenciato
 ## Status do Curso
 Em Andamento
 
+## Material complementar
+Livro Certificação LPI-1
+* Luciano Antonio Siqueira
+
 ## Icons
 :package: nova funcionalida
 :up: atualização
